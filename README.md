@@ -1,8 +1,11 @@
 # BarCode Scanner Tool
+
+downloadlink: https://1drv.ms/u/s!AnO97rwwJSGQtFHd2C1x1uBLc98m?e=Eap9YZ
+
 ## Tutorial Video
 
 ## Patchnotes
-###Version 0.5
+Version 0.5
 	
 	Initial release
 	
@@ -12,27 +15,27 @@
 	- Being able to link 2 products into one
 	- excel file with scanned items
 	
-###Version 0.6
+Version 0.6
 
 	Second release
 	
 	+ Being able to link 2 products into one
 	+ excel file with not scanned items
 	
-###Version 0.6.5
+Version 0.6.5
 
 	- Hotfix: Added a sleep in the linking part (otherwise it would spam codes)
 	- Hotfix: uncommented a replace function (cause the scanner scans '/' while it needs to be '-')
 	
-###Version 0.7
+Version 0.7
 
 	+ excel file with all scanned items
 
-###Version 0.8
+Version 0.8
 
 	+ added project info in generated excels
 	
-###Version 0.9
+Version 0.9
 
 	+ added GUI
 	+ added error handling
@@ -40,7 +43,7 @@
 	+ AZERTY to QWERTY translation added
 	+ non-scanner button input added
 
-###Version 1.0
+Version 1.0
 	
 	+ Optimized the code (deleting leftover code)
 	+ Added documentation
