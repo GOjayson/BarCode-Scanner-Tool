@@ -1,9 +1,9 @@
 # BarCode Scanner Tool
 
-downloadlink: https://1drv.ms/u/s!AnO97rwwJSGQtFHd2C1x1uBLc98m?e=Eap9YZ
+downloadlink: https://1drv.ms/u/s!AnO97rwwJSGQtFKrzybHIda3eKJf?e=bFK9tB
 
 ## Tutorial Video
-
+![Watch the video](https://youtu.be/XpCq-WlZA2I)
 ## Patchnotes
 Version 0.5
 	
@@ -47,3 +47,4 @@ Version 1.0
 	
 	+ Optimized the code (deleting leftover code)
 	+ Added documentation
+	+ Fixed quirks that a manufacturer has
