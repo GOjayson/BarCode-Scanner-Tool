@@ -3,7 +3,7 @@
 downloadlink: https://1drv.ms/u/s!AnO97rwwJSGQtFKrzybHIda3eKJf?e=bFK9tB
 
 ## Tutorial Video
-[![Tutorial](https://img.youtube.com/vi/XpCq-WlZA2I/0.jpg)](https://www.youtube.com/watch?v=XpCq-WlZA2I)
+[![Tutorial](https://img.youtube.com/vi/XpCq-WlZA2I&ab_channel=jaysongorissen/0.jpg)](https://www.youtube.com/watch?v=XpCq-WlZA2I&ab_channel=jaysongorissen)
 ## Patchnotes
 Version 0.5
 	
